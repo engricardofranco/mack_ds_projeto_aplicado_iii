@@ -1,4 +1,6 @@
-LOCAL
-Google Drive: https://drive.google.com/drive/folders/1GTqt0pCETLFsmy2CKfXIzdjR38SY3Lrf?usp=drive_link
-Obs: Por razões relacionadas a limitações técnicas referentes à possibilidade de armazenamento e processamento dos dados e, também, visando facilitar o desenvolvimento do trabalho em equipe, optamos por criar a estrutura do Data Lake no Drive, em vez de utilizar o GitHub, como havia sido planejado inicialmente.
+### 📂 Armazenamento de Dados (Data Lake)
 
+> [!IMPORTANT]
+> **Acesse os dados aqui:** [Google Drive - Data Lake](https://drive.google.com/drive/folders/1GTqt0pCETLFsmy2CKfXIzdjR38SY3Lrf?usp=drive_link)
+
+**Nota Técnica:** Devido a limitações de armazenamento e processamento do GitHub, a estrutura do **Data Lake** foi centralizada no Google Drive. Esta decisão estratégica visa otimizar o fluxo de trabalho colaborativo e garantir a integridade dos grandes volumes de dados manipulados neste projeto.
