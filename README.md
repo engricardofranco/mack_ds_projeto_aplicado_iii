@@ -2,8 +2,8 @@
 Sistema de recomendação para qualificação de potenciais clientes em tecnologia IoT no Brasil
 
 ## Apresentação
-
-[Youtube](https://www.youtube.com/watch?v=YZUwGwDhhmA)
+Link do Youtube com apresentação Final
+[Youtube](https://youtu.be/U5QHtly2-5Y)
 
 ## Descrição do Projeto
 Este trabalho apresenta o desenvolvimento de um sistema de recomendação voltado para a prospecção de empresas no cenário B2B brasileiro, utilizando a base de dados pública de CNPJs do Ministério da Fazenda. O objetivo é transformar a busca por novos clientes em um processo orientado a dados (data-driven), superando as limitações dos métodos tradicionais de marketing. A metodologia proposta consiste no processamento de Big Data para identificar organizações similares a uma empresa-alvo escolhida pelo usuário, permitindo filtros por localização e porte. O estudo destaca-se pela abordagem técnica comparativa, analisando o desempenho e a precisão dos algoritmos K-Nearest Neighbors (KNN) e Cosine Similarity através de uma prova de conceito. Os resultados esperados incluem a otimização da geração de leads e a validação de modelos de similaridade aplicados a dados cadastrais públicos.
